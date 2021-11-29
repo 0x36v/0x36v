@@ -1,4 +1,4 @@
-### Hi there 👋
+### Gg 👋
 
 <!--
 **0x36v/0x36v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### &#x1f4c8; pointless stats
+
+[![0x36v's github stats](https://github-readme-stats.vercel.app/api?username=0x36v&show_icons=true&theme=merko)](#)
+[![0x36v's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0x36v&&hide=cmake,HTML,perl,PostScript&langs_count=9&line_height=35&theme=dark&layout=compact)](#)
+
+![](#)
